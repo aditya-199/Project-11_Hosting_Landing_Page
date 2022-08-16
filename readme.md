@@ -2,6 +2,7 @@
 ## _Name : Aditya Bankar_
 
 ![](./images%20and%20svgs/Screenshot11.png)
+![](./images%20and%20svgs/Screenshot11mobile.png)
 
 > In this website i learn about Grid layout. Which helps you to form grid templet.
 In this website i learn about Grid layout, Position , Flexbox
